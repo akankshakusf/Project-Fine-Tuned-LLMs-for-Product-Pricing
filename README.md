@@ -1,7 +1,7 @@
 # 🦙 Fine-Tuned LLaMA: End-to-End Product Price Prediction Using Large Language Models
 
 > **An advanced multi-stage pipeline for transforming raw e-commerce data into actionable price predictions, using state-of-the-art open-source LLMs, parameter-efficient fine-tuning, and deep data curation.**
-
+Architecture - <img src="https://github.com/akankshakusf/Project-Fine-Tuned-LLMs-for-Product-Pricing/blob/master/Charts/arch.svg" width="70%" />
 ---
 
 ## 🧩 Project Overview
